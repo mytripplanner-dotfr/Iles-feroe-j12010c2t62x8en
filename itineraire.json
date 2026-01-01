@@ -1,0 +1,270 @@
+{
+  "pays": "Danemark (Iles Féroé)",
+  "drapeau": "🇩🇰",
+  "symbole": "🐑",
+  "titre": "Évasion sereine au cœur des paysages féériques des Féroé",
+  "budget_total": "1600 € par personne (estimation)",
+  "duree": "7 jours",
+  "temps_vol": "5h40 (depuis Paris, france)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et immersion dans la capitale",
+      "legende": "Après un vol pittoresque, atterrissez sur l'île de Vágar et prenez la route vers Tórshavn, la charmante capitale. Installez-vous et laissez-vous imprégner par l'atmosphère unique de cette ville portuaire, mélange de tradition et de modernité.",
+      "lieu": "Tórshavn, Streymoy",
+      "activites": [
+        "<strong>🛬 Arrivée à Vágar et transfert</strong>: Récupérez votre voiture de location à l'aéroport et prenez la route panoramique vers Tórshavn (environ 45 min).",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Enregistrez-vous dans votre hébergement et prenez un moment pour vous détendre après le voyage.",
+        "<strong>🚶‍♂️ Balade douce à Tinganes et dans le port</strong>: Explorez le quartier historique de Tinganes avec ses maisons aux toits de tourbe et promenez-vous le long du port animé de Tórshavn."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Vágar, Sørvágur",
+          "categorie": "Aéroport",
+          "coords": { "lat": 62.0636, "lng": -7.2773 }
+        },
+        {
+          "nom_recherche": "Tinganes, Tórshavn",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 62.0097, "lng": -6.7731 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Location de voiture",
+          "texte": "Indispensable pour explorer les îles Féroé. Réservez à l'avance, surtout en haute saison."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "⛪",
+      "titre": "Histoire et paysages du sud de Streymoy",
+      "legende": "Plongez dans l'histoire des Féroé en visitant Kirkjubøur, l'ancien centre culturel et religieux. L'après-midi, profitez d'une balade relaxante le long de la côte, admirant les vues imprenables sur l'océan Atlantique.",
+      "lieu": "Streymoy",
+      "activites": [
+        "<strong>⛪ Visite de Kirkjubøur</strong>: Explorez ce site historique majeur avec sa cathédrale inachevée de Magnus, l'église Saint-Olav et la plus ancienne ferme en bois habitée du monde, la Roykstovan.",
+        "<strong>🚶‍♀️ Randonnée côtière douce près de Velbastaður</strong>: Profitez d'une promenade facile avec des vues spectaculaires sur les îles de Hestur et Koltur, idéal pour se ressourcer.",
+        "<strong>🍽️ Dîner à Tórshavn</strong>: Savourez un repas dans l'un des restaurants de la capitale, proposant des spécialités locales."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Kirkjubøur, Streymoy",
+          "categorie": "Site historique",
+          "coords": { "lat": 61.9567, "lng": -6.7933 }
+        },
+        {
+          "nom_recherche": "Velbastaður, Streymoy",
+          "categorie": "Village",
+          "coords": { "lat": 61.9800, "lng": -6.8300 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🐑",
+          "titre": "Attention aux moutons",
+          "texte": "Les moutons sont omniprésents sur les routes des Féroé. Conduisez prudemment et soyez prêt à vous arrêter."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏞️",
+      "titre": "Les merveilles de l'île de Vágar",
+      "legende": "Retournez sur l'île de Vágar pour découvrir ses paysages emblématiques. Admirez la cascade de Múlafossur tombant dans l'océan et le lac suspendu de Sørvágsvatn, offrant des panoramas à couper le souffle.",
+      "lieu": "Vágar",
+      "activites": [
+        "<strong>💧 Múlafossur et Gásadalur</strong>: Visitez le charmant village de Gásadalur et sa célèbre cascade Múlafossur, l'une des images les plus iconiques des Féroé.",
+        "<strong>🏘️ Village de Bøur</strong>: Flânez dans ce petit village pittoresque avec ses maisons traditionnelles et ses vues sur les îlots de Tindhólmur et Gáshólmur.",
+        "<strong>🚶‍♂️ Randonnée au lac Sørvágsvatn (Trælanípa)</strong>: Profitez d'une marche facile vers le point de vue de Trælanípa pour admirer le lac qui semble flotter au-dessus de l'océan."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Gásadalur, Vágar",
+          "categorie": "Village et cascade",
+          "coords": { "lat": 62.0833, "lng": -7.4333 }
+        },
+        {
+          "nom_recherche": "Bøur, Vágar",
+          "categorie": "Village",
+          "coords": { "lat": 62.0717, "lng": -7.3800 }
+        },
+        {
+          "nom_recherche": "Trælanípa, Sørvágsvatn",
+          "categorie": "Point de vue",
+          "coords": { "lat": 62.0450, "lng": -7.2380 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🥾",
+          "titre": "Chaussures de marche",
+          "texte": "Prévoyez des chaussures de randonnée imperméables, même pour les balades douces, car les sentiers peuvent être humides."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🌊",
+      "titre": "Charme des villages et formations rocheuses d'Eysturoy",
+      "legende": "Explorez l'île d'Eysturoy, connue pour ses villages pittoresques et ses paysages dramatiques. Admirez les célèbres stacks marins de Risin et Kellingin et le charmant village de Gjógv avec son port naturel unique.",
+      "lieu": "Eysturoy",
+      "activites": [
+        "<strong>🏘️ Visite de Gjógv</strong>: Découvrez ce village idyllique, célèbre pour son port naturel creusé dans la roche et ses maisons colorées. Profitez d'une courte promenade le long de la falaise.",
+        "<strong>🗿 Risin et Kellingin</strong>: Arrêtez-vous au point de vue près d'Eiði pour admirer les impressionnants stacks marins, Risin et Kellingin, liés à une légende locale.",
+        "<strong>🌉 Pont sur l'Atlantique</strong>: Traversez le seul pont au monde enjambant l'océan Atlantique, reliant Streymoy et Eysturoy, pour une expérience unique."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Gjógv, Eysturoy",
+          "categorie": "Village",
+          "coords": { "lat": 62.3133, "lng": -6.9400 }
+        },
+        {
+          "nom_recherche": "Risin og Kellingin, Eiði",
+          "categorie": "Stacks marins",
+          "coords": { "lat": 62.2960, "lng": -7.1000 }
+        },
+        {
+          "nom_recherche": "Pont sur l'Atlantique, Streymoy-Eysturoy",
+          "categorie": "Pont",
+          "coords": { "lat": 62.1930, "lng": -7.0200 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🌬️",
+          "titre": "Vêtements adaptés",
+          "texte": "Le temps peut changer rapidement. Prévoyez des couches de vêtements, un coupe-vent et un imperméable, même en été."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🧜‍♀️",
+      "titre": "L'île mystérieuse de Kalsoy et la femme-phoque",
+      "legende": "Embarquez pour l'île de Kalsoy, surnommée \"la flûte\" en raison de sa forme allongée. Explorez ses tunnels, ses villages isolés et découvrez la légende de la femme-phoque, le tout dans une ambiance paisible et hors du temps.",
+      "lieu": "Kalsoy",
+      "activites": [
+        "<strong>🚢 Ferry vers Kalsoy</strong>: Prenez le ferry de Klaksvík à Syðradalur (Kalsoy). Arrivez tôt pour assurer votre place, les voitures sont limitées.",
+        "<strong>🧜‍♀️ Statue de la femme-phoque à Mikladalur</strong>: Admirez la magnifique statue de Kópakonan (la femme-phoque) et découvrez la légende fascinante qui l'entoure.",
+        "<strong>🚶‍♂️ Balade à Trøllanes</strong>: Explorez ce village isolé au nord de l'île. Profitez d'une balade douce pour admirer les paysages environnants (le phare de Kallur est une randonnée plus exigeante, à éviter si le vent est fort ou si vous préférez la détente)."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Ferry Klaksvík-Syðradalur",
+          "categorie": "Transport",
+          "coords": { "lat": 62.2230, "lng": -6.5860 }
+        },
+        {
+          "nom_recherche": "Mikladalur, Kalsoy",
+          "categorie": "Village et statue",
+          "coords": { "lat": 62.3200, "lng": -6.7500 }
+        },
+        {
+          "nom_recherche": "Trøllanes, Kalsoy",
+          "categorie": "Village",
+          "coords": { "lat": 62.3500, "lng": -6.7000 }
+        }
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Horaires des ferries",
+          "texte": "Vérifiez toujours les horaires des ferries à l'avance, car ils peuvent varier et être affectés par la météo."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🏡",
+      "titre": "Saksun, la vallée enchantée et cascades",
+      "legende": "Découvrez la beauté sereine de Saksun, une vallée isolée avec ses maisons aux toits de tourbe et son lagon. Terminez la journée par la majestueuse cascade de Fossá, offrant un spectacle naturel apaisant.",
+      "lieu": "Streymoy",
+      "activites": [
+        "<strong>🏡 Saksun, la vallée isolée</strong>: Visitez ce lieu emblématique avec son église et ses fermes aux toits de tourbe, nichées au fond d'une vallée verdoyante. Profitez de la tranquillité du lagon à marée basse.",
+        "<strong>💧 Cascade de Fossá</strong>: Admirez la plus haute cascade des Féroé, qui se jette en deux paliers impressionnants. Un court chemin permet de s'approcher de la base pour une vue spectaculaire.",
+        "<strong>🍽️ Dîner d'adieu</strong>: Savourez un dernier dîner féroïen, peut-être dans un restaurant avec vue, pour clore votre voyage en beauté."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Saksun, Streymoy",
+          "categorie": "Village et vallée",
+          "coords": { "lat": 62.2500, "lng": -7.1800 }
+        },
+        {
+          "nom_recherche": "Fossá, Streymoy",
+          "categorie": "Cascade",
+          "coords": { "lat": 62.2680, "lng": -7.0700 }
+        }
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🧘",
+          "titre": "Moment de calme",
+          "texte": "Saksun est un lieu de paix. Prenez le temps de vous asseoir et d'apprécier le silence et la beauté naturelle."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🛫",
+      "titre": "Départ des îles Féroé",
+      "legende": "Profitez d'un dernier petit-déjeuner féroïen avant de prendre la route vers l'aéroport de Vágar. Emportez avec vous des souvenirs impérissables de ces îles magiques et de leurs paysages à couper le souffle.",
+      "lieu": "Vágar",
+      "activites": [
+        "<strong>🍳 Dernier petit-déjeuner</strong>: Savourez un dernier repas local avant de quitter les îles.",
+        "<strong>🚗 Retour à l'aéroport de Vágar</strong>: Conduisez jusqu'à l'aéroport, en profitant une dernière fois des paysages.",
+        "<strong>🛫 Vol retour vers Paris</strong>: Restitution de la voiture de location et embarquement pour votre vol."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Vágar, Sørvágur",
+          "categorie": "Aéroport",
+          "coords": { "lat": 62.0636, "lng": -7.2773 }
+        }
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "⛽",
+          "titre": "Plein d'essence",
+          "texte": "N'oubliez pas de faire le plein de votre voiture de location avant de la rendre à l'aéroport."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 340 €/pers (A/R Paris-Vágar)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 345 €/pers (location voiture, essence, tunnels, ferry Kalsoy)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "Environ 315 €/pers (3 repas/jour, budget moyen)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 525 €/pers (7 nuits en hôtel 3* ou guesthouse)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 75 €/pers (entrées musées, petites excursions)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Septembre", "symbole": "☀️" },
+    { "titre": "Juin-Juillet (jour le plus long)", "symbole": "🌅" }
+  ],
+  "infos_pratiques": [
+    { "titre": "Le temps est très changeant aux Féroé. Prévoyez des vêtements chauds, imperméables et coupe-vent, même en été. Les couches sont essentielles.", "symbole": "🌦️" },
+    { "titre": "La monnaie est la Couronne Danoise (DKK). Les cartes de crédit sont largement acceptées, mais un peu d'argent liquide peut être utile dans les petits villages.", "symbole": "💳" },
+    { "titre": "La conduite se fait à droite. Le permis français est suffisant. Soyez vigilant aux moutons sur les routes et aux tunnels sous-marins payants.", "symbole": "🚗" },
+    { "titre": "Le réseau mobile est bon dans la plupart des zones habitées. Le Wi-Fi est disponible dans les hébergements. Une eSIM locale peut être pratique.", "symbole": "📶" },
+    { "titre": "Respectez la nature et les propriétés privées. Ne marchez que sur les sentiers balisés et ne laissez aucune trace de votre passage.", "symbole": "🌿" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-FAE/2026-05-20/2026-05-27", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Faroe Islands", "url": "https://visitfaroeislands.com/", "symbole": "📘" },
+    { "legende": "Location de voiture", "titre": "Location de voiture Féroé", "url": "https://www.rentacar.fo/", "symbole": "🚗" },
+    { "legende": "Météo", "titre": "Météo Féroé", "url": "https://www.yr.no/en/forecast/daily-table/1-261000/Faroe%20Islands/T%C3%B3rshavn", "symbole": "🌤️" }
+  ]
+}
